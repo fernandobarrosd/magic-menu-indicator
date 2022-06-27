@@ -40,6 +40,7 @@ body {
     color: white;
     font-weight: bold;
     opacity: 0;
+    
 }
 
 .menu-item:hover .menu-item-text{
@@ -54,6 +55,5 @@ body {
     to {
         transform: translateX(60px);
         opacity: 1;
-        
     }
 }
